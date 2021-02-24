@@ -9,3 +9,8 @@ Step 3 : Run livedetect.py
 
 
 Note: The dataset that I had used was an amalgamation of Prajna Bhandary's dataset(https://github.com/prajnasb/observations/tree/master/experiements/data) and Ashish Jangra's Face Mask ~12K Images Dataset (https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
+
+
+Motivated by the works of :
+https://github.com/aieml/face-mask-detection-keras/commits?author=aieml
+@aieml
